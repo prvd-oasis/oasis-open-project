@@ -4,11 +4,11 @@
 
 ## Overview 
 
-The work of the [Open Project name] community is governed by this document, in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to describe how the community works together to achieve its technical goals.
+The work of the PRVD community is governed by this document, in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to describe how the community works together to achieve its technical goals.
 
-The [Open Project name] works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
+The PRVD project works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below. Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
 
-The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](link to pgb page). 
+The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](https://www.oasis-open.org/policies-guidelines/open-projects-process/#releases-and-group-releases). 
 
 ## Community Roles and Leadership
 
@@ -24,7 +24,7 @@ All members of the community must abide by all relevant OASIS policies including
 
 * *Project Governing Board (PGB)*: The PGB oversees the overall strategy and direction of the project as well as the work of the TSCs. The PGB has final approval via Special Majority Vote of project releases and Project Specifications and their submission to the members of OASIS as candidates for OASIS Standard.  
 
-   The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](url to op rules).
+   The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/).
 
    The PGB is comprised of one representative from each Sponsoring organization, and a representative from each TSC (generally the chair). The PGB may create additional PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB.
 
