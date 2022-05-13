@@ -4,7 +4,7 @@
 
 ## Public Participation Invited
 
-[Open Project name] is an OASIS Open Project and welcomes participation by anyone, whether affiliated with OASIS or not. Substantive contributions and feedback are invited from all parties, following the common conventions for participation in GitHub public repository projects.
+PRVD is an OASIS Open Project and welcomes participation by anyone, whether affiliated with OASIS or not. Substantive contributions and feedback are invited from all parties, following the common conventions for participation in GitHub public repository projects.
 
 Participation is expected to be consistent with our [Code of Conduct](./CODE-OF-CONDUCT.md), the licenses applicable for each repository, and the acceptance of our Contributor License Agreement, generally at the time of first contribution. 
 
@@ -25,10 +25,6 @@ Discussions are a relatively new feature in GitHub that function like a chat ser
 The general mailing list requires that you subscribe before you can send. 
 
 General announcements are posted to the general mailing list and may be posted to other communications channels as well. 
-
-### Chat [optional]
-
-The [project name] community uses Slack for ad hoc discussion. If you wish to join the channel, use [this invite](url to the join link).
 
 ### About the CLA Bot
 
