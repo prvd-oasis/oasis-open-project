@@ -1,10 +1,10 @@
-<img src="artwork/prvd.png" width="400">
+<img src="artwork/prvd.png" width="200">
 
 # PRVD
 
 PRVD is an [OASIS Open Project](https://oasis-open-projects.org/). PRVD advances a leading production-grade reference implementation of the [Baseline Protocol](http://baseline-protocol.org/), an open standard that helps synchronize multiparty workflows across a variety of sectors and permeate decentralized finance throughout global commerce.
 
-For more information on PRVD, see the project's [charter](.
+For more information on PRVD, see the project's website.
 
 For more information on the goals of this effort, see the [project charter](https://github.com/prvd-oasis/oasis-open-project/blob/main/CHARTER.md). 
 
@@ -16,15 +16,13 @@ In addition to this GitHub organization, this project also makes use of other as
 
 - The [Open Project name] website is at [url to website]. The website contains news, announcements, and other information of interest about the project. 
 
-- [General purpose mailing list](url for list archive). To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](url to archive).
+- [General purpose mailing list](https://lists.oasis-open-projects.org/g/prvd-oasis). To subscribe, send an empty email message to prvd-oasis+subscribe@lists.oasis-open-projects.org. Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](https://lists.oasis-open-projects.org/g/prvd-oasis/topics).
 
-- [Project Governing Board mailing list](url for list archive). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive).
+- [Project Governing Board mailing list](https://lists.oasis-open-projects.org/g/prvd-oasis-pgb). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](https://lists.oasis-open-projects.org/g/prvd-oasis-pgb/topics).
 
-- [Technical Steering Committee mailing list](url for list archive). This is the discussion list for use by the members of the TSC. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive).
+<!-- [Technical Steering Committee mailing list](url for list archive). This is the discussion list for use by the members of the TSC. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive). -->
 
 [descriptions and links to any other resources we or they may set up such as a Slack channel].
-
-[note that we may want to allow the project to list project repositories here as Ethereum has done.]
 
 # Contributing
 
@@ -32,7 +30,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details how to join the proje
 
 # Governance
 
-[Open Project name] operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the applicable license(s) specified in [LICENSE.md](LICENSE.md). Further details can be found in [GOVERNANCE.md](GOVERNANCE.md).
+PRVD operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the applicable license(s) specified in [LICENSE.md](LICENSE.md). Further details can be found in [GOVERNANCE.md](GOVERNANCE.md).
 
 # CLA & Non-assert signatures required
 
