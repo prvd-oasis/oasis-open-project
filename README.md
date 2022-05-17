@@ -1,12 +1,12 @@
 <img src="artwork/prvd.png" width="400">
 
-# [Open Project name]
+# PRVD
 
-[Open Project name] is an [OASIS Open Project](https://oasis-open-projects.org/) [purpose statement goes here.]
+PRVD is an [OASIS Open Project](https://oasis-open-projects.org/). PRVD advances a leading production-grade reference implementation of the [Baseline Protocol](http://baseline-protocol.org/), an open standard that helps synchronize multiparty workflows across a variety of sectors and permeate decentralized finance throughout global commerce.
 
-For more information on [Open Project short name], see the project's website at [url].
+For more information on PRVD, see the project's [charter](.
 
-For more information on the goals of this effort, see the [project charter](./CHARTER.md). 
+For more information on the goals of this effort, see the [project charter](https://github.com/prvd-oasis/oasis-open-project/blob/main/CHARTER.md). 
 
 General questions about OASIS Open Projects may be directed to OASIS staff at project-admin@lists.oasis-open-projects.org
 
