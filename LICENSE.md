@@ -1,4 +1,4 @@
-<img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="200">
+<img src="artwork/prvd.png" width="200">
 
 This Open Project operates under the license below plus the [Specification NonAssertion Covenant](https://www.oasis-open.org/policies-guidelines/open-projects-process#repository-specification-licenses-special-covenant). Other work undertaken by the project may be covered by other licenses that will be specified in their repositories.
 
