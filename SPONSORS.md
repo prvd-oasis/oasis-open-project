@@ -4,5 +4,5 @@ OASIS Open and PRVD thank the following organizations who generously support the
 
 * [Chainlink](https://chain.link/)
 * [HaasOnline](https://www.haasonline.com/)
-* [Provide](https://provide.services/)
+* [Provide](https://provide.services/) &bigstar;
 * [Synadia](https://synadia.com/)
