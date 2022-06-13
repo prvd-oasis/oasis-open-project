@@ -4,17 +4,21 @@
 
 PRVD is an [OASIS Open Project](https://oasis-open-projects.org/). PRVD advances a leading production-grade reference implementation of the [Baseline Protocol](http://baseline-protocol.org/), an open standard that helps synchronize multiparty workflows across a variety of sectors and permeate decentralized finance throughout global commerce.
 
+<!---
 For more information on PRVD, see the project's website.
+-->
 
 For more information on the goals of this effort, see the [project charter](https://github.com/prvd-oasis/oasis-open-project/blob/main/CHARTER.md). 
 
-General questions about OASIS Open Projects may be directed to OASIS staff at project-admin@lists.oasis-open-projects.org
+General questions about OASIS Open Projects may be directed to OASIS staff at [project-admin@lists.oasis-open-projects.org](project-admin@lists.oasis-open-projects.org).
 
 # Other assets
 
 In addition to this GitHub organization, this project also makes use of other assets. 
 
+<!---
 - The [Open Project name] website is at [url to website]. The website contains news, announcements, and other information of interest about the project. 
+-->
 
 - [General purpose mailing list](https://lists.oasis-open-projects.org/g/prvd-oasis). To subscribe, send an empty email message to prvd-oasis+subscribe@lists.oasis-open-projects.org. Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](https://lists.oasis-open-projects.org/g/prvd-oasis/topics).
 
@@ -22,7 +26,7 @@ In addition to this GitHub organization, this project also makes use of other as
 
 <!-- [Technical Steering Committee mailing list](url for list archive). This is the discussion list for use by the members of the TSC. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive). -->
 
-[descriptions and links to any other resources we or they may set up such as a Slack channel].
+- Join the [PRVD Open Project Slack channel](https://join.slack.com/t/prvd-oasis/shared_invite/zt-19jub2efm-9tymO0VjwTjpLafDMawuxw).
 
 # Contributing
 
