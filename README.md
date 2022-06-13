@@ -22,7 +22,7 @@ In addition to this GitHub organization, this project also makes use of other as
 
 - [General purpose mailing list](https://lists.oasis-open-projects.org/g/prvd-oasis). To subscribe, send an empty email message to prvd-oasis+subscribe@lists.oasis-open-projects.org. Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](https://lists.oasis-open-projects.org/g/prvd-oasis/topics).
 
-- [Project Governing Board mailing list](https://lists.oasis-open-projects.org/g/prvd-oasis-pgb). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](https://lists.oasis-open-projects.org/g/prvd-oasis-pgb/topics).
+- [Project Governing Board mailing list](https://lists.oasis-open-projects.org/g/prvd-oasis-pgb). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [prvd-oasis-pgb+subscribe@lists.oasis-open-projects.org](prvd-oasis-pgb+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe read-only. The list maintains an [archive](https://lists.oasis-open-projects.org/g/prvd-oasis-pgb/topics).
 
 <!-- [Technical Steering Committee mailing list](url for list archive). This is the discussion list for use by the members of the TSC. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive). -->
 
