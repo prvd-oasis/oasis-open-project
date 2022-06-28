@@ -1,12 +1,12 @@
 <img src="prvd-oasis.png" width="300">
 
-<h1>[Open Project name] Project Governing Board (PGB)</h1>
+<h1>PRVD Project Governing Board (PGB)</h1>
 
-<p>The Project Governing Board sets overall strategic direction of the [OP short name] project and formally approves released work products.</p> 
+<p>The Project Governing Board sets overall strategic direction of the PRVD project and formally approves released work products.</p> 
 
-<p>PGB members include representatives of <a href="[link to]SPONSORS.md">[OP short name] Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
+<p>PGB members include representatives of <a href="../SPONSORS.md">PRVD Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
 
-<p><i>PGB Chair</i>: [name of chair(s)-this doesn't appear in the Google sheet]</p>
+<p><i>PGB Chair</i>: To be elected at first meeting</p>
 
 <p>PGB members:</p>
 
