@@ -4,7 +4,7 @@
 
 <p>The Project Governing Board sets overall strategic direction of the PRVD project and formally approves released work products.</p> 
 
-<p>PGB members include representatives of <a href="../SPONSORS.md">PRVD Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
+<p>PGB members include representatives of <a href="https://github.com/prvd-oasis/oasis-open-project/blob/main/SPONSORS.md">PRVD Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
 
 <p><i>PGB Chair</i>: To be elected at first meeting</p>
 
