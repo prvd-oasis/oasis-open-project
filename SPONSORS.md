@@ -5,5 +5,4 @@ OASIS Open and PRVD thank the following organizations who generously support the
 * [BankUnited](https://www.bankunited.com/) &bigstar;
 * [HaasOnline](https://www.haasonline.com/) &bigstar;
 * [Polygon](https://polygon.technology/)
-* [Provide](https://provide.services/) &bigstar;
 * [Synadia](https://synadia.com/)
