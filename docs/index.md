@@ -6,7 +6,7 @@
 
 <p>PGB members include representatives of <a href="https://github.com/prvd-oasis/oasis-open-project/blob/main/SPONSORS.md">PRVD Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
 
-<p><i>PGB Chair</i>: Kyle Thomas</p>
+<p><i>PGB Chair</i>: </p>
 
 <p>PGB members:</p>
 
